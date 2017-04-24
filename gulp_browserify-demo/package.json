@@ -1,0 +1,26 @@
+{
+  "name": "gulp_browserify-demo",
+  "version": "1.0.0",
+  "description": "A demo project for Gulp and Browserify",
+  "scripts": {
+    "build": "browserify src/js/index.js -o dist/bundle.js"
+  },
+  "devDependencies": {
+    "browserify": "^13.3.0",
+    "del": "^2.2.2",
+    "gulp": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "^5.0.0",
+    "gulp-jshint": "latest",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "^2.1.2",
+    "gulp-util": "latest",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "latest",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

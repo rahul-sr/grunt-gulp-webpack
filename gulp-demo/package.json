@@ -1,0 +1,22 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "A starter project for Gulp.js",
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "del": "^2.2.2",
+    "gulp": "latest",
+    "gulp-changed": "^3.0.0",
+    "gulp-concat": "latest",
+    "gulp-connect": "^5.0.0",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-jshint": "latest",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "^2.1.2",
+    "gulp-util": "latest",
+    "jshint-stylish": "latest"
+  }
+}

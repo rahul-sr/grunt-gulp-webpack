@@ -1,0 +1,15 @@
+$font-family: Helvetica, sans-serif;
+$primary-color: #666;
+$bg-color: #fff;
+
+body {
+  font: 100% $font-family;
+  color: $primary-color;
+  background-color: $bg-color;
+  text-align: center;
+  margin-top: 10px;
+}
+
+img{
+	margin-top: 20px;
+}

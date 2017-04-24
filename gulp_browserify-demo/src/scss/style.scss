@@ -1,0 +1,11 @@
+$font-family:    Helvetica, sans-serif;
+$primary-color: #3C6991;
+$bg-color: #f0f0f0;
+
+body {
+  font: 100% $font-family;
+  color: $primary-color;
+  background-color: $bg-color;
+  text-align: center;
+  margin-top: 20px;
+}

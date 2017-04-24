@@ -1,0 +1,17 @@
+{
+  "name": "gruntDemo",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-compass": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-livereload": "0.1.2",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "jshint-stylish": "latest"
+  }
+}
